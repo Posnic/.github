@@ -4,22 +4,22 @@
   </a>
 </p>
 
-# Posnic
+# Posnic Open Source POS
 
-Posnic builds free, open-source POS and billing software for retail shops and
-restaurants. The local desktop application supports offline POS workflows by
-running its primary API and database on the shop computer; Posnic also supports
-server-hosted online/offline POS setups where a shop runs one database from a
-browser on its own network.
+Posnic builds free, offline-first open-source POS and billing software for
+retail shops and restaurants. The local desktop application supports Offline
+POS workflows by running its primary API and database on the shop computer;
+Posnic also supports server-hosted Online/Offline POS setups where a shop runs
+one database from a browser on its own network.
 
 ## Official links
 
 | Resource | Official location |
 | --- | --- |
-| Product source | [Posnic/POS](https://github.com/Posnic/POS) |
-| Installers | [Latest GitHub release](https://github.com/Posnic/POS/releases/latest) |
-| Cloud app and tenant login | [posnic.io](https://posnic.io/) |
-| Product and marketing website | [posnic.com](https://posnic.com/) |
+| Official website and tenant login | [posnic.io](https://posnic.io/) |
+| Open-source POS repository | [Posnic/POS](https://github.com/Posnic/POS) |
+| Installers and checksums | [Latest GitHub release](https://github.com/Posnic/POS/releases/latest) |
+| Product evidence and marketing pages | [posnic.com](https://posnic.com/) |
 | Live demo | [demo.posnic.io](https://demo.posnic.io/) |
 | Versioned product facts | [Posnic specifications and evidence](https://posnic.com/posnic-facts) |
 | POS system guide | [What is a POS system?](https://posnic.com/features) |
