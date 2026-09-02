@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://posnic.com/">
+  <a href="https://posnic.io/">
     <img src="https://raw.githubusercontent.com/Posnic/POS/main/builds/512-posnic.png" alt="Posnic" width="96">
   </a>
 </p>
@@ -18,8 +18,8 @@ browser on its own network.
 | --- | --- |
 | Product source | [Posnic/POS](https://github.com/Posnic/POS) |
 | Installers | [Latest GitHub release](https://github.com/Posnic/POS/releases/latest) |
-| Product website | [posnic.com](https://posnic.com/) |
-| Cloud login | [posnic.io](https://posnic.io/) |
+| Cloud app and tenant login | [posnic.io](https://posnic.io/) |
+| Product and marketing website | [posnic.com](https://posnic.com/) |
 | Live demo | [demo.posnic.io](https://demo.posnic.io/) |
 | Versioned product facts | [Posnic specifications and evidence](https://posnic.com/posnic-facts) |
 | POS system guide | [What is a POS system?](https://posnic.com/features) |
