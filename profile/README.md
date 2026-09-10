@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://posnic.io/">
+  <a href="https://www.posnic.com/">
     <img src="https://raw.githubusercontent.com/Posnic/POS/main/builds/512-posnic.png" alt="Posnic" width="96">
   </a>
 </p>
@@ -16,14 +16,14 @@ one database from a browser on its own network.
 
 | Resource | Official location |
 | --- | --- |
-| Official website and tenant login | [posnic.io](https://posnic.io/) |
+| Official website | [www.posnic.com](https://www.posnic.com/) |
 | Open-source POS repository | [Posnic/POS](https://github.com/Posnic/POS) |
 | Installers and checksums | [Latest GitHub release](https://github.com/Posnic/POS/releases/latest) |
-| Product evidence and marketing pages | [posnic.com](https://posnic.com/) |
+| Product evidence and marketing pages | [www.posnic.com](https://www.posnic.com/) |
 | Live demo | [demo.posnic.io](https://demo.posnic.io/) |
-| Versioned product facts | [Posnic specifications and evidence](https://posnic.com/posnic-facts) |
-| POS system guide | [What is a POS system?](https://posnic.com/features) |
-| Trust and company proof | [Posnic Trust Center](https://posnic.com/trust) |
+| Versioned product facts | [Posnic specifications and evidence](https://www.posnic.com/posnic-facts) |
+| POS system guide | [What is a POS system?](https://www.posnic.com/features) |
+| Trust and company proof | [Posnic Trust Center](https://www.posnic.com/trust) |
 | Security reports | [Posnic/POS security policy](https://github.com/Posnic/POS/security/policy) |
 | Product support | [Posnic/POS discussions](https://github.com/Posnic/POS/discussions) |
 
@@ -37,7 +37,7 @@ one database from a browser on its own network.
   policy states that it sends no analytics or telemetry to Posnic.
 - Product claims, runtime observations, source-test results and known limits
   are versioned in the
-  [product-facts record](https://posnic.com/posnic-facts).
+  [product-facts record](https://www.posnic.com/posnic-facts).
 
 Local operation does not make every dependency local. Downloads, electronic
 payment authorization, optional cloud services and business-selected
@@ -56,4 +56,4 @@ not through a public issue.
 
 Posnic POS is maintained by Posnic Innovations Private Limited, India. Company,
 contact and source-verification details are published at
-[posnic.com/trust](https://posnic.com/trust).
+[www.posnic.com/trust](https://www.posnic.com/trust).
