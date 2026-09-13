@@ -18,6 +18,7 @@ one database from a browser on its own network.
 | --- | --- |
 | Official website | [www.posnic.com](https://www.posnic.com/) |
 | Open-source POS repository | [Posnic/POS](https://github.com/Posnic/POS) |
+| Official X profile | [@Posnic_Pos](https://x.com/Posnic_Pos) |
 | Installers and checksums | [Latest GitHub release](https://github.com/Posnic/POS/releases/latest) |
 | Product evidence and marketing pages | [www.posnic.com](https://www.posnic.com/) |
 | Live demo | [demo.posnic.io](https://demo.posnic.io/) |
